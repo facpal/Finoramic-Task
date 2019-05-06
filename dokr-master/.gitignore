@@ -1,0 +1,9 @@
+/dokr.egg-info/
+/dist/
+build/
+.settings/
+.project
+.classpath
+*.pyc
+/dokenv/
+/__pycache__/
